@@ -1,6 +1,6 @@
 # Seiyaj Token Smart Contract
 
-This project contains the smart contract for the Seiyaj Token, a simple fungible token that implements the ERC20 standard.
+This project contains the smart contract for the Seiyaj Token, a simple fungible token that implements the ERC20 standard, and additional functionalities such as `whitelisted traders` and `dividend paying`. The token is deployed on the Sepolia testnet of Ethereum network and is used for testing purposes.
 
 ## Getting Started
 
