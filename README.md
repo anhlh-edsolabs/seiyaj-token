@@ -64,6 +64,11 @@ To deploy the contract on the sepolia network, use the following command:
 yarn deploy:dev:sepolia ./deployment/deploy/01_SeiyajToken.js
 ```
 
+For now the contract is deployed on the sepolia network as an Upgradeable contract with the following addresses:
+
+- Proxy: [0xaDB3C1464C361eE55e993D8589EFF53a1707Bf3e](https://sepolia.etherscan.io/address/0xaDB3C1464C361eE55e993D8589EFF53a1707Bf3e)
+- Implementation: [0xa9844332cd1e6bf702a3049c70dea1fb44f298c9](https://sepolia.etherscan.io/address/0xa9844332cd1e6bf702a3049c70dea1fb44f298c9)
+
 ## Built With
 
 - Hardhat [https://hardhat.org/](https://hardhat.org/) - Development environment for Ethereum.
